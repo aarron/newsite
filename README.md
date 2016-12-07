@@ -1,0 +1,1 @@
+This little website tells the story of my work as a product designer, writer, and speaker. I'm rebuilding it to better showcase my work, but really just to sharpen my tools and play with design and technology.
