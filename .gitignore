@@ -1,7 +1,9 @@
-# Big Things #
-###################
-/downloads
-/iterations
+# Big Things and Things to Keep Private #
+#########################################
+downloads
+iterations
+dist 
+node_modules
 
 # Compiled source #
 ###################
