@@ -1,5 +1,5 @@
-.testing {
-  width: 71.42857%; }
-
 body {
-  background: #fff; }
+  background-color: red; }
+
+h1, h2, h3 {
+  font-family: Verlag, Helvetica, sans-serif; }
